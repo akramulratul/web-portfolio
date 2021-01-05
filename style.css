@@ -1,0 +1,23 @@
+h1{
+    font size:60px;
+}
+p{
+    font-size: 30px;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.name-highlight{
+    color: orange;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    font-size: large;
+}
+.half img{
+    width: 85%;
+
+}
