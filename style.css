@@ -2,7 +2,8 @@ h1{
     font-size: 60px;
 }
 p{
-    font-size: 30px;
+    font-size: 25px;
+    color: dimgray;
 }
 body{
     font-family: 'Roboto Slab', serif;
@@ -28,7 +29,8 @@ body{
 }
 section{
     height: 500px;
-    padding-bottom: 120px;
+    padding-bottom: 150px;
+    margin-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
@@ -41,6 +43,12 @@ section{
     font-weight: 900;
 }
 .middle-half img{
-    width: 50%;
+    width: 45%;
+    float: left;
 
+}
+.middle-banner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
